@@ -1,3 +1,2 @@
 # stepik_auto_tests_course
-stepik_auto_tests_course_py_home
-homework_numbers
+Репозиторий для хранения домашних работ по курсу автоматизации тестирования на степике
